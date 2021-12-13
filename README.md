@@ -2,7 +2,7 @@
 Course homepage for "Data Science" @ Gonie Ahn
 ## Notice
 * [**Syllabus**](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/00_Syllabus.pdf)
-* **Course Owner  : 안건이**
+* **Course Owner  : Gonie Ahn**
     * E-1)  : gonie.ahn@gmail.com
     * E-2)  : gonie.ahn@shinhan.com
 ## Contents
