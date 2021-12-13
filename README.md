@@ -23,43 +23,40 @@ Course homepage for "Data Science" @ Gonie Ahn
 - conda install -c conda-forge datatable
 - conda install -c conda-forge tqdm
 ```
-### [Class03] Data Preprocessing with python - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass03%5D%20Data%20Preprocessing%20with%20Python/C0705_Data_Preprocessing_with_Python.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass03%5D%20Data%20Preprocessing%20with%20Python/Solar_Data_Preprocessing.ipynb)
-* Tutorial Code (ipynb file)로 강의자료 대체
-* Solar Domain을 활용한 데이터 전처리
-    * Keyword : *#Data Cleaning #Feature Extraction*
-### [Class04] Basic of Data Analytics - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass04%5D%20Basic%20of%20Data%20Analytics/C0706_Basic_of_Data_Analytics.pdf)
+### [Class03] Basic of Data Analytics - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass04%5D%20Basic%20of%20Data%20Analytics/C0706_Basic_of_Data_Analytics.pdf)
 * 데이터 분석에 앞서 필요한 전반적인 지식
 * 데이터 종류와 변수의 종류 정의
 * Regression & Classification에 대한 정의
     * Keyword : *#Bias VS Variance #Overfitting VS Underfitting #Loss Function #K-fold Cross Validation*
-### [Class05] Regression Problem - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass05%5D%20Regression%20Problem/C0706_Regression_Problem.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass05%5D%20Regression%20Problem/Regression_Problem.ipynb)
+### [Class04] Regression Problem - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass05%5D%20Regression%20Problem/C0706_Regression_Problem.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass05%5D%20Regression%20Problem/Regression_Problem.ipynb)
 * Regression Loss Function
 * Regression Model 평가 및 지표해석
-* Solar 데이터 실습
+* 데이터 실습
     * Keyword : *#Linear Regression #R2 #MSE*
 ```
 # Install Package
 - pip install regressors
     - Do not Support Anaconda
 ```
-### [Class06] Regularized Linear Models - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass06%5D%20Regularized%20Linear%20Models/C0706_Regularized_Linear_Models.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass06%5D%20Regularized%20Linear%20Models/Regularized_Linear_Models.ipynb)
+### [Class05] Regularized Linear Models - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass06%5D%20Regularized%20Linear%20Models/C0706_Regularized_Linear_Models.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass06%5D%20Regularized%20Linear%20Models/Regularized_Linear_Models.ipynb)
 * Feature Selection 기법 중 Embedded 기법을 활용함
 * 계수 Penalty Term을 주어 분석에 필요하고 중요한 변수만 선택되게 하는 기법
+* * 데이터 실습
     * Keyword : *#Ridge #LASSO # ElasticNet*
-### [Class07] Classification Problem - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass07%5D%20Classification%20Problem/C0707_Classification_Problem.pdf), [[Toturial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass07%5D%20Classification%20Problem/DecisionTree.ipynb)
+### [Class06] Classification Problem - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass07%5D%20Classification%20Problem/C0707_Classification_Problem.pdf), [[Toturial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass07%5D%20Classification%20Problem/DecisionTree.ipynb)
 * Classification Loss Function
 * Classification Model 평가 및 지표해석
-* Solar 데이터 실습
+* 데이터 실습
     * Keyword : *#DecisionTree #ACC #Recall #Precision # F1-score #RuleExtraction*
-### [Class08] Ensemble Learning - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass08%5D%20Ensemble%20Learning/C0707_Ensemble_Learning.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass08%5D%20Ensemble%20Learning/Ensemble_Learning.ipynb)
+### [Class07] Ensemble Learning - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass08%5D%20Ensemble%20Learning/C0707_Ensemble_Learning.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass08%5D%20Ensemble%20Learning/Ensemble_Learning.ipynb)
 * Ensemble의 정의 및 single model보다 좋은 이유
 * Bagging, Boosting, Stacking에 대한 정보
-* Solar 데이터 실습
+* 데이터 실습
     * Keyword : *#RandomForest #Adaboost #Feature Importance Score*
-### [Class09] Gradient Boosting Machine(GBM) Family - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/C0707_Gradient_Boosting_Machine_GBM__Family.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/GBM%20Family%20Tutorial%20Code)
+### [Class08] Gradient Boosting Machine(GBM) Family - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/C0707_Gradient_Boosting_Machine_GBM__Family.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/GBM%20Family%20Tutorial%20Code)
 * Gradient Boosting Machine 개념 설명
 * GBM --> XGboost --> LightGBM으로 발전 History 설명
-* Solar 데이터 실습
+* 데이터 실습
     * Keyword : *#Missing Value Handling #Bigdata Learning #GBM #XGBoost #LightGBM #Feature Importance Score*
 * Reference site
     * XGboost - Hyperparameter Tuning
@@ -71,11 +68,11 @@ Course homepage for "Data Science" @ Gonie Ahn
 - conda install -c conda-forge xgboost
 - conda install -c conda-forge lightgbm
 ```
-### [Class10] eXplainable Method For High Complexity Models - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass10%5D%20eXplainable%20Method%20For%20High%20Complexity%20Models/C0708_eXplainable_Method_For_High_Complexity_Model.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass10%5D%20eXplainable%20Method%20For%20High%20Complexity%20Models/LightGBM_Regression_SHAP.ipynb)
+### [Class09] eXplainable Method For High Complexity Models - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass10%5D%20eXplainable%20Method%20For%20High%20Complexity%20Models/C0708_eXplainable_Method_For_High_Complexity_Model.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass10%5D%20eXplainable%20Method%20For%20High%20Complexity%20Models/LightGBM_Regression_SHAP.ipynb)
 * 복잡한 모델을 해석하기 위한 기법 소개
 * Global Feature Importance Score VS Local Feature Importance Score
 * Interpretable Meachine Learning을 통한 원인 분석
-* Solar 데이터 실습
+* 데이터 실습
     * Keyword : *#IML #Global VS Local #LIME #SHAP* 
 * Reference site
     * Interpretable Machine Learning (IML)  
@@ -92,11 +89,11 @@ Course homepage for "Data Science" @ Gonie Ahn
 # Install Package
 - conda install -c conda-forge shap
 ```
-### [Class11] Clustering & Dimensionality Reduction - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass11%5D%20Clustering%20&%20Dimensionality%20Reduction/C0709_Clustering___Dimensionality_Reduction.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass11%5D%20Clustering%20&%20Dimensionality%20Reduction/Clustering___Dimensonality_Reduction.ipynb)
+### [Class10] Clustering & Dimensionality Reduction - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass11%5D%20Clustering%20&%20Dimensionality%20Reduction/C0709_Clustering___Dimensionality_Reduction.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass11%5D%20Clustering%20&%20Dimensionality%20Reduction/Clustering___Dimensonality_Reduction.ipynb)
 * Unsupervised Learning을 활용하여 최적의 X's 조합을 도출함
 * 복잡한 Supervised Learning을 탈피하여 고효율군을 이루는 X's들의 조합을 찾는 새로운 기법 제시
 * Dimensionality Reduction을 활용하여 clsuter의 분포를 확인함
-* Solar 데이터 실습
+* 데이터 실습
     * Keyword : *#Distance #HDBSCAN #Spectral #PCA #T-SNE #Autoencoder* 
 * Reference site
     * Clustering - 다양한 데이터에 여러 개의 Cluster 기법을 실험해 놓음
