@@ -8,10 +8,7 @@ Course homepage for "Data Science" @ Gonie Ahn
 ## Contents
 ### Data Store - [[Toy Data]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/Data%20Store)
 * 현재 Github의 경우 Data Upload size를 10MB로 제한하였기 때문에 small data를 Upload 함
-    * .csv 형태와 .pickle 형태 두가지가 있음
-* 원본 데이터는 분석 Nas 서버에 Upload 함 (Data size가 매우 크기 때문에 Pickle 형태 추천)
-    * .csv 형태 : "/nas001/projects/Solar_Edu/Data/toy_data.csv"
-    * .pickle 형태 : "/nas001/projects/Solar_Edu/Data/toy_data.pickle"
+    * .csv 형태
 ### [Class01] Introduction to Data Analytics - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass01%5D%20Introduction%20to%20Data%20Analytics/C0705_Introduction_to_Data_Analytics.pdf)
 * Data Analytics에 대한 전반적인 내용
     * Keyword : *#Data Analytics #Data Scientist*
