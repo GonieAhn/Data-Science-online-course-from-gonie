@@ -56,7 +56,7 @@ Course homepage for "Data Science" @ Gonie Ahn
     * Keyword : *#RandomForest #Adaboost #Feature Importance Score*
 ### [Class08] Gradient Boosting Machine(GBM) Family - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/C0707_Gradient_Boosting_Machine_GBM__Family.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/GBM%20Family%20Tutorial%20Code)
 * Gradient Boosting Machine 개념 설명
-* GBM --> XGboost --> LightGBM으로 발전 History 설명
+* GBM -> XGboost -> LightGBM으로 발전 History 설명
 * 데이터 실습
     * Keyword : *#Missing Value Handling #Bigdata Learning #GBM #XGBoost #LightGBM #Feature Importance Score*
 * Reference site
@@ -132,4 +132,4 @@ Course homepage for "Data Science" @ Gonie Ahn
     * http://docs.bokeh.org/en/latest/docs/user_guide/plotting.html
     * https://lovit.github.io/visualization/2018/03/31/bokeh_python_plotting/
     * https://lovit.github.io/visualization/2019/11/22/bokeh_tutorial/
---!>
+
