@@ -12,7 +12,7 @@ Course homepage for "Data Science" @ Gonie Ahn
     * .csv 형태
 ### [Class01] Introduction to Data Analytics - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass01%5D%20Introduction%20to%20Data%20Analytics/C0705_Introduction_to_Data_Analytics.pdf)
 * Data Analytics에 대한 전반적인 내용
-    * Keyword : *#Data Analytics #Data Scientist*
+    * Keyword : *#Data Analytics #Data Science*
 ### [Class02] Data Loading from AWS(S3) - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/C0705_Data_Loading_from_AWS_S3_.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/Data_Load_Single.ipynb)
 * 빅데이터실 분석서버에 가상환경 만드는 방
 * AWS 클라우드 Burket인 S3에서 Python 분석환경으로 데이터 Load 하는 법
@@ -33,6 +33,7 @@ Course homepage for "Data Science" @ Gonie Ahn
 * Regression Loss Function
 * Regression Model 평가 및 지표해석
 * 데이터 실습
+* 고려대학교 DMQA Lab. 김성범 교수님 강의 자료를 참고함
     * Keyword : *#Linear Regression #R2 #MSE*
 ```
 # Install Package
@@ -42,7 +43,8 @@ Course homepage for "Data Science" @ Gonie Ahn
 ### [Class05] Regularized Linear Models - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass06%5D%20Regularized%20Linear%20Models/C0706_Regularized_Linear_Models.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass06%5D%20Regularized%20Linear%20Models/Regularized_Linear_Models.ipynb)
 * Feature Selection 기법 중 Embedded 기법을 활용함
 * 계수 Penalty Term을 주어 분석에 필요하고 중요한 변수만 선택되게 하는 기법
-* * 데이터 실습
+* 데이터 실습
+* 고려대학교 DMQA Lab. 김성범 교수님 강의 자료를 참고함
     * Keyword : *#Ridge #LASSO # ElasticNet*
 ### [Class06] Classification Problem - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass07%5D%20Classification%20Problem/C0707_Classification_Problem.pdf), [[Toturial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass07%5D%20Classification%20Problem/DecisionTree.ipynb)
 * Classification Loss Function
@@ -53,11 +55,13 @@ Course homepage for "Data Science" @ Gonie Ahn
 * Ensemble의 정의 및 single model보다 좋은 이유
 * Bagging, Boosting, Stacking에 대한 정보
 * 데이터 실습
+* 고려대학교 DSBA Lab. 강필성 교수님 강의 자료를 참고함
     * Keyword : *#RandomForest #Adaboost #Feature Importance Score*
 ### [Class08] Gradient Boosting Machine(GBM) Family - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/C0707_Gradient_Boosting_Machine_GBM__Family.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/GBM%20Family%20Tutorial%20Code)
 * Gradient Boosting Machine 개념 설명
 * GBM -> XGboost -> LightGBM으로 발전 History 설명
 * 데이터 실습
+* 고려대학교 DSBA Lab. 강필성 교수님 강의 자료를 참고함
     * Keyword : *#Missing Value Handling #Bigdata Learning #GBM #XGBoost #LightGBM #Feature Importance Score*
 * Reference site
     * XGboost - Hyperparameter Tuning
