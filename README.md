@@ -7,7 +7,7 @@ Course homepage for "Data Science" @ Gonie Ahn
     * E-1)  : gonie.ahn@gmail.com
     * E-2)  : gonie.ahn@shinhan.com
 ## Contents
-### Data Store - [[Toy Data]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/Data%20Store)
+### Data Store - [[Toy Data]](http://mo.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/Data%20Store)
 * 현재 Github의 경우 Data Upload size를 10MB로 제한하였기 때문에 small data를 Upload 함
     * .csv 형태
 ### [Class01] Introduction to Data Analytics - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass01%5D%20Introduction%20to%20Data%20Analytics/C0705_Introduction_to_Data_Analytics.pdf)
