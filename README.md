@@ -9,8 +9,8 @@
 * [**Course History**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/99_Album.pdf)
 ## Contents
 ### Data Store - [[Toy Data]](http://mo.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/Data%20Store)
-* 현재 Github의 경우 Data Upload size를 10MB로 제한하였기 때문에 small data를 Upload 함
-    * .csv 형태
+* 현재 Github의 경우 Data upload size를 10MB로 제한하였기 때문에 small data를 Upload 함
+    * .csv 형태 또는 .pickle 형태로 저장되어 있음
 ### [Class01] Introduction to Data Analytics - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass01%5D%20Introduction%20to%20Data%20Analytics/C0705_Introduction_to_Data_Analytics.pdf)
 * Data Analytics에 대한 전반적인 내용
     * Keyword : *#Data Analytics #Data Science*
