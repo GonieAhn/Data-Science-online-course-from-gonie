@@ -98,7 +98,7 @@
 ### [Class10] Clustering & Dimensionality Reduction - [[Slide]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass11%5D%20Clustering%20&%20Dimensionality%20Reduction/C0709_Clustering___Dimensionality_Reduction.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass11%5D%20Clustering%20&%20Dimensionality%20Reduction/Clustering___Dimensonality_Reduction.ipynb)
 * Unsupervised Learning을 활용하여 최적의 X's 조합을 도출함
 * 복잡한 Supervised Learning을 탈피하여 고효율군을 이루는 X's들의 조합을 찾는 새로운 기법 제시
-* Dimensionality Reduction을 활용하여 clsuter의 분포를 확인함
+* Dimensionality Reduction을 활용하여 cluster의 분포를 확인함
 * 데이터 실습
     * Keyword : *#Distance #HDBSCAN #Spectral #PCA #T-SNE #Autoencoder* 
 * Reference site
