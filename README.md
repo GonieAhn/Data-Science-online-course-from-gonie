@@ -1,6 +1,6 @@
 # **Data Science : Online Course from Gonie** 
 * Course homepage for "Data Science" @ Gonie Ahn
-* Cover Data Scientist of low level to high level
+* Covers Data Scientist of low level to high level
 ## Notice
 * [**Syllabus**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/00_Syllabus.pdf)
     * 보안 ISSUE로 Data Preprocessing with Python는 Class에서 제외
