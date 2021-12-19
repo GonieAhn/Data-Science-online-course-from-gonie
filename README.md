@@ -1,11 +1,11 @@
-<!--
 # **Data Science : Online Course from Gonie** 
 Course homepage for "Data Science" @ Gonie Ahn
 ## Notice
-* [**Syllabus**](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/00_Syllabus.pdf)
-* **Course Owner  : Gonie Ahn**
+* [**Syllabus**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/00_Syllabus.pdf)
+    * 보안 ISSUE로 Data Preprocessing with Python는 Class에서 제외
+* **Course Owner  : [Gonie Ahn](https://github.com/GonieAhn)**
     * E-1)  : gonie.ahn@gmail.com
-    * E-2)  : gonie.ahn@shinhan.com
+* [**Course History**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/99_Album.pdf)
 ## Contents
 ### Data Store - [[Toy Data]](http://mo.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/Data%20Store)
 * 현재 Github의 경우 Data Upload size를 10MB로 제한하였기 때문에 small data를 Upload 함
