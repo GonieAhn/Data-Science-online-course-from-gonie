@@ -7,7 +7,7 @@
 * **Course Owner  : [Gonie Ahn](https://github.com/GonieAhn)**
     * E) : gonie.ahn@gmail.com
 * [**Course History**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/99_Album.pdf)
-    * <img src = "https://user-images.githubusercontent.com/30275936/146712801-8b12bbb6-1e20-4e4b-97dc-f398cc6f80cd.png" width="70%" height="70%">
+    * <img src = "https://user-images.githubusercontent.com/30275936/146712801-8b12bbb6-1e20-4e4b-97dc-f398cc6f80cd.png" width="75%" height="75%">
 ## Contents
 ### Data Store - [[Toy Data]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/tree/main/Data%20Store)
 * 현재 Github의 경우 ata upload size를 10MB로 제한하였기 때문에 small data를 upload 함
