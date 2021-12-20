@@ -12,12 +12,16 @@
 * 현재 Github의 경우 Data upload size를 10MB로 제한하였기 때문에 small data를 Upload 함
     * .csv 형태 또는 .pickle 형태로 저장되어 있음
 ### [Class01] Introduction to Data Analytics - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass01%5D%20Introduction%20to%20Data%20Analytics/C1_Introduction%20to%20Data%20Analytics.pdf)
+* 전반적인 AI 흐름
 * Data Analytics에 대한 전반적인 내용
+* 기업에서 데이터 분석이 실패하는 이유
+* 데이터 분석 성공 사례
     * Keyword : *#Data Analytics #Data Science*
 ### [Class02] Data Loading from AWS(S3) - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/C2_Data%20Loading%20from%20AWS(S3).pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/Data_Load_Single.ipynb)
-* 빅데이터실 분석서버에 가상환경 만드는 방
+* Anaconda에서 가상환경 만드는 방법
 * AWS 클라우드 Burket인 S3에서 Python 분석환경으로 데이터 Load 하는 법
-* Partitioning 되어 있는 File들을 Multiprocessing을 사용하여 빠르게 불러옴
+    * 보안 ISSUE로 KEY 값들은 삭제함
+* Partitioning 되어 있는 File들을 Multiprocessing을 활용하여 빠르게 불러오는 방법 소개
     * Keyword : *#AWS #S3 #Multiprocessing #pickle #Virtual Environment*
 ```
 # Install Package
@@ -42,8 +46,8 @@
     - Do not Support Anaconda
 ```
 ### [Class05] Regularized Linear Models - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass05%5D%20Regularized%20Linear%20Models/C5_Regularized%20Linear%20Models.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass06%5D%20Regularized%20Linear%20Models/Regularized_Linear_Models.ipynb)
-* Feature Selection 기법 중 Embedded 기법을 활용함
-* 계수 Penalty Term을 주어 분석에 필요하고 중요한 변수만 선택되게 하는 기법
+* Feature Selection 기법 중 Embedded 기법 소개
+* 계수에 Penalty Term을 주어 분석에 필요하고 중요한 변수만 선택하게 하는 기법
 * 데이터 실습
 * 고려대학교 DMQA Lab. 김성범 교수님 강의 자료를 참고함
     * Keyword : *#Ridge #LASSO # ElasticNet*
@@ -53,14 +57,15 @@
 * 데이터 실습
     * Keyword : *#DecisionTree #ACC #Recall #Precision # F1-score #RuleExtraction*
 ### [Class07] Ensemble Learning - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass07%5D%20Ensemble%20Learning/C7_Ensemble%20Learning.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass08%5D%20Ensemble%20Learning/Ensemble_Learning.ipynb)
-* Ensemble의 정의 및 single model보다 좋은 이유
-* Bagging, Boosting, Stacking에 대한 정보
+* Ensemble의 정의 및 single model보다 좋은 이유 수식 증명
+* Bagging, Boosting, Stacking에 대한 소개
 * 데이터 실습
 * 고려대학교 DSBA Lab. 강필성 교수님 강의 자료를 참고함
     * Keyword : *#RandomForest #Adaboost #Feature Importance Score*
 ### [Class08] Gradient Boosting Machine(GBM) Family - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass08%5D%20GBM%20Family/C8_GBM%20Family.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/GBM%20Family%20Tutorial%20Code)
 * Gradient Boosting Machine 개념 설명
-* GBM -> XGboost -> LightGBM으로 발전 History 설명
+* GBM -> XGboost -> LightGBM -> CatBoost -> NGBoost로 발전 History 설명
+* 알고리즘은 LightGBM 까지만 설명함
 * 데이터 실습
 * 고려대학교 DSBA Lab. 강필성 교수님 강의 자료를 참고함
     * Keyword : *#Missing Value Handling #Bigdata Learning #GBM #XGBoost #LightGBM #Feature Importance Score*
@@ -77,7 +82,7 @@
 ### [Class09] eXplainable Method For High Complexity Models - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass09%5D%20eXplainable%20Method%20For%20High%20Complexity%20Model/C9_eXplainable%20Method%20For%20High%20Complexity%20Model.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass10%5D%20eXplainable%20Method%20For%20High%20Complexity%20Models/LightGBM_Regression_SHAP.ipynb)
 * 복잡한 모델을 해석하기 위한 기법 소개
 * Global Feature Importance Score VS Local Feature Importance Score
-* Interpretable Meachine Learning을 통한 원인 분석
+* Interpretable Meachine Learning을 활용한 원인 분석 소개
 * 데이터 실습
     * Keyword : *#IML #Global VS Local #LIME #SHAP* 
 * Reference site
@@ -96,9 +101,10 @@
 - conda install -c conda-forge shap
 ```
 ### [Class10] Clustering & Dimensionality Reduction - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass10%5D%20Clustering%20%26%20Dimensionality%20Reduction/C10_Clustering%20%26%20Dimensionality%20Reduction.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass11%5D%20Clustering%20&%20Dimensionality%20Reduction/Clustering___Dimensonality_Reduction.ipynb)
-* Unsupervised Learning을 활용하여 최적의 X's 조합을 도출함
+* Unsupervised Learning을 활용하여 최적의 X's 조합을 도출하는 방법 소개
 * 복잡한 Supervised Learning을 탈피하여 고효율군을 이루는 X's들의 조합을 찾는 새로운 기법 제시
-* Dimensionality Reduction을 활용하여 cluster의 분포를 확인함
+* Dimensionality Reduction을 활용하여 cluster의 분포 확인
+* Dimensionality Reduction을 활용한 Anormaly Detection 방법 
 * 데이터 실습
     * Keyword : *#Distance #HDBSCAN #Spectral #PCA #T-SNE #Autoencoder* 
 * Reference site
