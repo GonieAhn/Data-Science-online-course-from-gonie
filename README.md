@@ -37,7 +37,7 @@
 * 데이터 종류와 변수의 종류 정의
 * Regression & Classification에 대한 정의
     * Keyword : *#Bias VS Variance #Overfitting VS Underfitting #Loss Function #K-fold Cross Validation*
-### [Class04] Regression Problem - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass04%5D%20Regression%20Problem/C4_Regression%20Problem.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass05%5D%20Regression%20Problem/Regression_Problem.ipynb)
+### [Class04] Regression Problem - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass04%5D%20Regression%20Problem/C4_Regression%20Problem.pdf), [[Tutorial Code]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass04%5D%20Regression%20Problem/Regression_Problem.ipynb)
 * Regression Loss Function
 * Regression Model 평가 및 지표해석
 * 데이터 실습
