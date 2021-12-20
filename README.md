@@ -19,7 +19,7 @@
 * 기업에서 데이터 분석이 실패하는 이유
 * 데이터 분석 성공 사례
     * Keyword : *#Data Analytics #Data Science*
-### [Class02] Data Loading from AWS(S3) - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/C2_Data%20Loading%20from%20AWS(S3).pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/Data_Load_Single.ipynb)
+### [Class02] Data Loading from AWS(S3) - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/C2_Data%20Loading%20from%20AWS(S3).pdf), [[Tutorial Code]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/tree/main/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/Code)
 * Anaconda에서 가상환경 만드는 방법
 * AWS 클라우드 Burket인 S3에서 Python 분석환경으로 데이터 Load 하는 법
     * 보안 ISSUE로 KEY 값들은 삭제함
