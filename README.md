@@ -10,8 +10,6 @@
     * <img src = "https://user-images.githubusercontent.com/30275936/146712801-8b12bbb6-1e20-4e4b-97dc-f398cc6f80cd.png" width="65%" height="65%">
 ## Contents
 ### Data Store - [[Toy Data]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/tree/main/Data%20Store)
-* 현재 Github의 경우 ata upload size를 10MB로 제한하였기 때문에 small data를 upload 함
-* csv와 pickle 파일 load & save 하는 방법
 * 데이터는 .csv 형태 또는 .pickle 형태로 저장되어 있음
     * 주의: pickle의 경우 python 버전이 다르면 error가 날 수 있음 
 ### [Class01] Introduction to Data Analytics - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass01%5D%20Introduction%20to%20Data%20Analytics/C1_Introduction%20to%20Data%20Analytics.pdf)
