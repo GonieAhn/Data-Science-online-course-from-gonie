@@ -49,7 +49,7 @@
     - Do not Support Anaconda
     - 설치 안되시는 분 Class04 Tutorial Code 맨 마지막 Cell 보면 설치 정보 얻을 수 있음
 ```
-### [Class05] Regularized Linear Models - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass05%5D%20Regularized%20Linear%20Models/C5_Regularized%20Linear%20Models.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass06%5D%20Regularized%20Linear%20Models/Regularized_Linear_Models.ipynb)
+### [Class05] Regularized Linear Models - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass05%5D%20Regularized%20Linear%20Models/C5_Regularized%20Linear%20Models.pdf), [[Tutorial Code]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass05%5D%20Regularized%20Linear%20Models/Regularized%20Linear%20Models.ipynb)
 * Feature Selection 기법 중 Embedded 기법 소개
 * 계수에 Penalty Term을 주어 분석에 필요하고 중요한 변수만 선택하게 하는 기법
 * 데이터 실습
