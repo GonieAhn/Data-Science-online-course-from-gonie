@@ -1,6 +1,5 @@
 # **Data Science : Online Course from Gonie**
-* [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGonieAhn%2FData-Science-online-course-from-gonie&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-* Course homepage for "Data Science" @ Gonie Ahn
+* Course homepage for "Data Science" @ Gonie Ahn [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGonieAhn%2FData-Science-online-course-from-gonie&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 * Covers Data Scientist of low level to high level
 ## Notice
 * [**Syllabus**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/00_Syllabus.pdf)
