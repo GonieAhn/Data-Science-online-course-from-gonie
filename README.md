@@ -5,7 +5,7 @@
 * [**Syllabus**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/00_Syllabus.pdf)
     * 보안 ISSUE로 Data Preprocessing with Python는 Class에서 제외
 * **Course Owner  : [Gonie Ahn](https://github.com/GonieAhn)**
-    * E) : gonie.ahn@gmail.com
+    * E) : gonie32@gmail.com
 * [**Course History**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/99_Album.pdf)
     * <img src = "https://user-images.githubusercontent.com/30275936/146712801-8b12bbb6-1e20-4e4b-97dc-f398cc6f80cd.png" width="65%" height="65%">
 ## Contents
