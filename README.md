@@ -109,7 +109,7 @@
 * Dimensionality Reduction을 활용하여 cluster의 분포 확인
 * Dimensionality Reduction을 활용한 Anormaly Detection 방법 
 * 데이터 실습
-    * Keyword : *#Distance #HDBSCAN #Spectral #PCA #T-SNE #Autoencoder* 
+    * Keyword : *#Distance #K-means #Hierarchical Clustering #HDBSCAN #Spectral #PCA #T-SNE #Autoencoder* 
 * Reference site
     * Clustering - 다양한 데이터에 여러 개의 Cluster 기법을 실험해 놓음
         * https://scikit-learn.org/stable/modules/clustering.html
