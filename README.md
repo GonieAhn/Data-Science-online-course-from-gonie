@@ -65,7 +65,7 @@
 * 데이터 실습
 * 고려대학교 DSBA Lab. 강필성 교수님 강의 자료를 참고함
     * Keyword : *#RandomForest #Adaboost #Feature Importance Score*
-### [Class08] Gradient Boosting Machine(GBM) Family - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass08%5D%20GBM%20Family/C8_GBM%20Family.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/tree/master/%5BClass09%5D%20Gradient%20Boosting%20Machine(GBM)%20Family/GBM%20Family%20Tutorial%20Code)
+### [Class08] Gradient Boosting Machine(GBM) Family - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass08%5D%20GBM%20Family/C8_GBM%20Family.pdf), [[Tutorial Code]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/tree/main/%5BClass08%5D%20GBM%20Family/Code)
 * Gradient Boosting Machine 개념 설명
 * GBM -> XGboost -> LightGBM -> CatBoost -> NGBoost로 발전 History 설명
 * 알고리즘은 LightGBM 까지만 설명함
