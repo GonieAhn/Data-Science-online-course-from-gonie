@@ -103,7 +103,7 @@
 # Install Package
 - conda install -c conda-forge shap
 ```
-### [Class10] Clustering & Dimensionality Reduction - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass10%5D%20Clustering%20%26%20Dimensionality%20Reduction/C10_Clustering%20%26%20Dimensionality%20Reduction.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass11%5D%20Clustering%20&%20Dimensionality%20Reduction/Clustering___Dimensonality_Reduction.ipynb)
+### [Class10] Clustering & Dimensionality Reduction - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass10%5D%20Clustering%20%26%20Dimensionality%20Reduction/C10_Clustering%20%26%20Dimensionality%20Reduction.pdf), [[Tutorial Code]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass10%5D%20Clustering%20%26%20Dimensionality%20Reduction/Clusetering%20_%20Dimensonality%20Reduction.ipynb)
 * Unsupervised Learning을 활용하여 최적의 X's 조합을 도출하는 방법 소개
 * 복잡한 Supervised Learning을 탈피하여 고효율군을 이루는 X's들의 조합을 찾는 새로운 기법 제시
 * Dimensionality Reduction을 활용하여 cluster의 분포 확인
