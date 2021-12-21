@@ -93,7 +93,7 @@
         * https://christophm.github.io/interpretable-ml-book/interpretability-importance.html
     * LIME
         * https://pythondata.com/local-interpretable-model-agnostic-explanations-lime-python/
-        * https://github.com/marcotcr/lime/tree/master/lime
+        * https://github.com/marcotcr/lime
         * https://yjjo.tistory.com/3
     * SHAP
         * https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values
