@@ -58,7 +58,7 @@
 * Classification Model 평가 및 지표해석
 * 데이터 실습
     * Keyword : *#DecisionTree #ACC #Recall #Precision # F1-score #RuleExtraction*
-### [Class07] Ensemble Learning - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass07%5D%20Ensemble%20Learning/C7_Ensemble%20Learning.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass08%5D%20Ensemble%20Learning/Ensemble_Learning.ipynb)
+### [Class07] Ensemble Learning - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass07%5D%20Ensemble%20Learning/C7_Ensemble%20Learning.pdf), [[Tutorial Code]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass07%5D%20Ensemble%20Learning/Ensembel_Learning.ipynb)
 * Ensemble의 정의 및 single model보다 좋은 이유 수식 증명
 * Bagging, Boosting, Stacking에 대한 소개
 * 데이터 실습
