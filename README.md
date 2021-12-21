@@ -53,7 +53,7 @@
 * 데이터 실습
 * 고려대학교 DMQA Lab. 김성범 교수님 강의 자료를 참고함
     * Keyword : *#Ridge #LASSO # ElasticNet*
-### [Class06] Classification Problem - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass06%5D%20Classification%20Problem/C6_Classification%20Problem.pdf), [[Toturial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass07%5D%20Classification%20Problem/DecisionTree.ipynb)
+### [Class06] Classification Problem - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass06%5D%20Classification%20Problem/C6_Classification%20Problem.pdf), [[Toturial Code]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass06%5D%20Classification%20Problem/DecisionTree.ipynb)
 * Classification Loss Function
 * Classification Model 평가 및 지표해석
 * 데이터 실습
