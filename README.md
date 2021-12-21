@@ -3,7 +3,8 @@
 * Covers Data Scientist of low level to high level
 ## Notice
 * [**Syllabus**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/00_Syllabus.pdf)
-    * 보안 ISSUE로 Data Preprocessing with Python는 Class에서 제외
+    * Domain ISSUE로 Data Preprocessing with Python는 Class에서 제외
+    * 실제 현업에서는 데이터 분석에 있어서 Data Preprocessing이 90% 포션을 차지함
 * **Course Owner  : [Gonie Ahn](https://github.com/GonieAhn)**
     * E) : gonie32@gmail.com
 * [**Course History**](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/99_Album.pdf)
