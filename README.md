@@ -82,7 +82,7 @@
 - conda install -c conda-forge xgboost
 - conda install -c conda-forge lightgbm
 ```
-### [Class09] eXplainable Method For High Complexity Models - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass09%5D%20eXplainable%20Method%20For%20High%20Complexity%20Model/C9_eXplainable%20Method%20For%20High%20Complexity%20Model.pdf), [[Tutorial Code]](http://mod.lge.com/hub/smartdata/data-science-online-course-from-dstp/blob/master/%5BClass10%5D%20eXplainable%20Method%20For%20High%20Complexity%20Models/LightGBM_Regression_SHAP.ipynb)
+### [Class09] eXplainable Method For High Complexity Models - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass09%5D%20eXplainable%20Method%20For%20High%20Complexity%20Model/C9_eXplainable%20Method%20For%20High%20Complexity%20Model.pdf), [[Tutorial Code]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass09%5D%20eXplainable%20Method%20For%20High%20Complexity%20Model/LightGBM_Regression_SHAP.ipynb)
 * 복잡한 모델을 해석하기 위한 기법 소개
 * Global Feature Importance Score VS Local Feature Importance Score
 * Interpretable Meachine Learning을 활용한 원인 분석 소개
