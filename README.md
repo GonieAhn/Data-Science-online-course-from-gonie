@@ -12,7 +12,9 @@
 ## Contents
 ### Data Store - [[Toy Data]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/tree/main/Data%20Store)
 * 데이터는 .csv 형태 또는 .pickle 형태로 저장되어 있음
-    * 주의: pickle의 경우 python 버전이 다르면 error가 날 수 있음 
+* Toy Data에 몇가지 트릭을 걸어 놓음
+    * 스스로 전처리 잘해야함
+* 주의: pickle의 경우 python 버전이 다르면 error가 날 수 있음 
 ### [Class01] Introduction to Data Analytics - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass01%5D%20Introduction%20to%20Data%20Analytics/C1_Introduction%20to%20Data%20Analytics.pdf)
 * 전반적인 AI 흐름
 * Data Analytics에 대한 전반적인 내용
