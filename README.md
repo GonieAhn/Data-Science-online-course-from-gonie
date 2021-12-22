@@ -149,3 +149,36 @@
     * https://lovit.github.io/visualization/2018/03/31/bokeh_python_plotting/
     * https://lovit.github.io/visualization/2019/11/22/bokeh_tutorial/
 
+--!>
+실라버스 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/00_Syllabus.pdf
+앨범 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/99_Album.pdf
+
+#PDF
+C01 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass01%5D%20Introduction%20to%20Data%20Analytics/C1_Introduction%20to%20Data%20Analytics.pdf
+
+C02 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/C2_Data%20Loading%20from%20AWS(S3).pdf
+T02 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/tree/main/%5BClass02%5D%20Data%20Loading%20from%20AWS(S3)/Code
+
+C03 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass03%5D%20Basic%20of%20Data%20Analytics/C3_Basic%20of%20Data%20Analytics.pdf
+
+C04 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass04%5D%20Regression%20Problem/C4_Regression%20Problem.pdf
+T04 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass04%5D%20Regression%20Problem/Regression_Problem.ipynb
+
+C05 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass05%5D%20Regularized%20Linear%20Models/C5_Regularized%20Linear%20Models.pdf
+T05 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass05%5D%20Regularized%20Linear%20Models/Regularized%20Linear%20Models.ipynb
+
+C06 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass06%5D%20Classification%20Problem/C6_Classification%20Problem.pdf
+T06 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass06%5D%20Classification%20Problem/DecisionTree.ipynb
+
+C07 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass07%5D%20Ensemble%20Learning/C7_Ensemble%20Learning.pdf
+T07 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass07%5D%20Ensemble%20Learning/Ensembel_Learning.ipynb
+
+C08 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass08%5D%20GBM%20Family/C8_GBM%20Family.pdf
+T08 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/tree/main/%5BClass08%5D%20GBM%20Family/Code
+
+C09 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass09%5D%20eXplainable%20Method%20For%20High%20Complexity%20Model/C9_eXplainable%20Method%20For%20High%20Complexity%20Model.pdf
+C09 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass09%5D%20eXplainable%20Method%20For%20High%20Complexity%20Model/LightGBM_Regression_SHAP.ipynb
+
+C10 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass10%5D%20Clustering%20%26%20Dimensionality%20Reduction/C10_Clustering%20%26%20Dimensionality%20Reduction.pdf
+T10 : https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass10%5D%20Clustering%20%26%20Dimensionality%20Reduction/Clusetering%20_%20Dimensonality%20Reduction.ipynb
+
