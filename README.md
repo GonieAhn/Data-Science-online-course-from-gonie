@@ -15,7 +15,7 @@
 * Toy Data에 몇가지 트릭을 걸어 놓음
     * 스스로 전처리 잘해야함
 * 주의: pickle의 경우 python 버전이 다르면 error가 날 수 있음 
-* 데이터를 저장하지 않고 Python으로 바로 불러오는 법
+* 데이터를 저장하지 않고 Github Data Store에서 Python으로 바로 불러오는 법(모든 Tutorial Code에 적용 가능)
 ```
 import pandas as pd
 data = pd.read_csv("https://raw.githubusercontent.com/GonieAhn/Data-Science-online-course-from-gonie/main/Data%20Store/TOY_DATA.csv")
