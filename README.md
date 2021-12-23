@@ -15,6 +15,11 @@
 * Toy Data에 몇가지 트릭을 걸어 놓음
     * 스스로 전처리 잘해야함
 * 주의: pickle의 경우 python 버전이 다르면 error가 날 수 있음 
+* 데이터를 저장하지 않고 Python으로 바로 불러오는 법
+```
+import pandas as pd
+data = pd.read_csv("https://raw.githubusercontent.com/GonieAhn/Data-Science-online-course-from-gonie/main/Data%20Store/TOY_DATA.csv")
+```
 ### [Class01] Introduction to Data Analytics - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass01%5D%20Introduction%20to%20Data%20Analytics/C1_Introduction%20to%20Data%20Analytics.pdf)
 * 전반적인 AI 흐름
 * Data Analytics에 대한 전반적인 내용
