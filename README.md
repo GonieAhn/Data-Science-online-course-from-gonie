@@ -12,6 +12,8 @@
 ## Contents
 ### Data Store - [[Toy Data]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/tree/main/Data%20Store)
 * 데이터는 .csv 형태 또는 .pickle 형태로 저장되어 있음
+    * .csv 형태의 파일은 브라우저가 열림
+    * .pickle 형태의 파일은 다운로드 되어 본인 컴퓨터에 저장 가능
 * Toy Data에 몇가지 트릭을 걸어 놓음
     * 스스로 전처리 잘해야함
 * 주의: pickle의 경우 python 버전이 다르면 error가 날 수 있음 
