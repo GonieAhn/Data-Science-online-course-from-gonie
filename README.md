@@ -47,6 +47,7 @@ data = pd.read_csv("https://raw.githubusercontent.com/GonieAhn/Data-Science-onli
     * Keyword : *#Bias VS Variance #Overfitting VS Underfitting #Loss Function #K-fold Cross Validation*
 ### [Class04] Regression Problem - [[Slide]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass04%5D%20Regression%20Problem/C4_Regression%20Problem.pdf), [[Tutorial Code]](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/%5BClass04%5D%20Regression%20Problem/Regression_Problem.ipynb)
 * Regression Loss Function
+* 계수 추정 
 * Regression Model 평가 및 지표해석
 * 데이터 실습
 * 고려대학교 DMQA Lab. 김성범 교수님 강의 자료를 참고함
