@@ -139,8 +139,8 @@ data = pd.read_csv("https://raw.githubusercontent.com/GonieAhn/Data-Science-onli
     * Lab Seminar : http://dsba.korea.ac.kr/seminar/
     * YouTube Video : https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg
 * Applied Artifical Intelligence @KAIST : Machine Learning, Deep Learning, Artifical Intelligence
-    * Lab Homepage : https://aai.kaist.ac.kr/xe2/
-    * YouTube Video : https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg/videos
+    * Lab Homepage : [https://aai.kaist.ac.kr/xe2/](https://aai.kaist.ac.kr/index.php)
+    * YouTube Video : [https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg/videos](https://www.youtube.com/@kaistmooc_kooc/videos)
 ## Data Visualization Reference Site
 * Top 50 matplotlib Visualization Code - ***초강추!!!*** 
     * https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
